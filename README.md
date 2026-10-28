@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/otari-logo.svg" width="320" alt="Otari logo"/>
+  <img src="/otari-logo.set" width="320" alt="Otari logo"/>
 </p>
 
 <div align="center">
